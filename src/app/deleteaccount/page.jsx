@@ -29,7 +29,7 @@ export default function DeleteAccount() {
         setShowConfirm(false);
 
         // 👉 yaha future me API / Firebase call kar sakta hai
-        console.log("Delete request for:", email);
+        console.log("Delete request for:dddjddjv", email);
 
         setShowSuccess(true);
     };
